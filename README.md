@@ -59,7 +59,6 @@ Full stack JS developer @ School of Applied Technology
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" alt="AWS" width="40px" height="40px"></a>
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 </td>
   </tr>
 </table>
