@@ -6,6 +6,9 @@ Full stack JS developer @ School of Applied Technology
 * **PhysIO** App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
   * [Backend](https://github.com/MaciejGL/final-project-backend) - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB  
   * [Frontend](https://github.com/MaciejGL/final-project-frontend) - React, Redux  
+* [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker) Plant tracker prototype.
+* [**Timeglass**](https://github.com/mountwebs/timeglass) A simple, unobtrusive menu bar timer for macOS
+
 
 ### Stack
 <table>
