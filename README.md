@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Stian
 
-Full stack JS developer @ School of Applied Technology
+Full stack JS developer, based in Oslo @ School of Applied Technology
 
 ### Current Projects
 * **PhysIO**: App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
