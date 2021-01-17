@@ -2,8 +2,6 @@
 
 Full stack JS developer, based in Oslo @ [School of Applied Technology](https://salt.dev/)
 
-Read more on my new blog: [mountwebs.github.io](https://mountwebs.github.io/)
-
 ### Current Projects
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
 * **PhysIO**: App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
