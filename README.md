@@ -66,10 +66,10 @@ Full stack JS developer, based in Oslo @ [School of Applied Technology](https://
   </tr>
 </table>
 
-## Other
+### Other
 [Codewars](https://www.codewars.com/users/mountwebs)
 
-## Contact
+### Contact
 <a href="https://www.linkedin.com/in/stian-klasbu-917a40162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /> - LinkedIn: Stian Klasbu</a>
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail Logo" height="30" width="40" /> - stiangk@gmail.com
