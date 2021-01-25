@@ -2,6 +2,8 @@
 
 Full stack JS developer, based in Oslo.
 
+My webpage and blog: https://stiangk.netlify.app/
+
 I am currently looking for a job. If you are interested in hiering me,
           take a look at my
           <a href="https://www.linkedin.com/in/stian-klasbu-917a40162/">
