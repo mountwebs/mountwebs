@@ -1,6 +1,13 @@
 ### Hi 👋 I'm Stian
 
-Full stack JS developer, based in Oslo @ [School of Applied Technology](https://salt.dev/)
+Full stack JS developer, based in Oslo.
+
+I am currently looking for a job. If you are interested in hiering me,
+          take a look at my
+          <a href="https://www.linkedin.com/in/stian-klasbu-917a40162/">
+            linkedIn profile
+          </a>
+          or write me an <a href="mailto:stiangk@gmail.com">email</a>.
 
 ### Current Projects
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
