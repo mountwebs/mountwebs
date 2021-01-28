@@ -11,7 +11,8 @@ I am currently looking for a job. If you are interested in hiering me,
           </a>
           or write me an <a href="mailto:stiangk@gmail.com">email</a>.
 
-### Current Projects
+### Recent and current Projects
+* [**Portfolio and blog**](https://github.com/mountwebs/homepage) Repository for my personal website.
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
 * **PhysIO**: App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
   * [Backend](https://github.com/MaciejGL/final-project-backend) - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB  
