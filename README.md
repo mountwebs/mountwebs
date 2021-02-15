@@ -4,13 +4,6 @@ Full stack JS developer, based in Oslo.
 
 Portfolio and blog: https://stiangk.netlify.app/
 
-I am currently looking for a job. If you are interested in hiering me,
-          take a look at my
-          <a href="https://www.linkedin.com/in/stian-klasbu-917a40162/">
-            linkedIn profile
-          </a>
-          or write me an <a href="mailto:stiangk@gmail.com">email</a>.
-
 ### Current and recent Projects
 * [**Portfolio and blog**](https://github.com/mountwebs/homepage) Repository for my personal website.
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
