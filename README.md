@@ -6,7 +6,7 @@ Portfolio and blog: https://stiangk.netlify.app/
 
 ### Current and recent Projects
 * **Folkestemmen** App prototype enabeling citizens to give feedback to their local government. Work in progress.
-  * [Frontend](https://github.com/mountwebs/folkestemmen-api)
+  * [Frontend](https://github.com/mountwebs/folkestemmen-frontend)
   * [API](https://github.com/mountwebs/folkestemmen-api)
 * [**Portfolio and blog**](https://github.com/mountwebs/homepage) Repository for my personal website.
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
