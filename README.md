@@ -5,6 +5,9 @@ Full stack JS developer, based in Oslo.
 Portfolio and blog: https://stiangk.netlify.app/
 
 ### Current and recent Projects
+* **Folkestemmen** App prototype enabeling citizens to give feedback to their local government. Work in progress.
+  * [Frontend](https://github.com/mountwebs/folkestemmen-api)
+  * [API](https://github.com/mountwebs/folkestemmen-api)
 * [**Portfolio and blog**](https://github.com/mountwebs/homepage) Repository for my personal website.
 * [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
 * **PhysIO**: App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
