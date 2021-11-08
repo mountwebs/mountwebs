@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Stian
 
-Full stack JS developer, based in Oslo.
+Full stack developer, based in Oslo.
 
 Portfolio and blog: https://stiangk.netlify.app/
 
