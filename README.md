@@ -7,7 +7,6 @@ Portfolio and blog: https://stiangk.netlify.app/
 ### Current and recent Projects
 * [**Iver**](https://github.com/mountwebs/iver) Web app prototype enabeling citizens to give feedback to their local government. Work in progress.
 * [**Portfolio and blog**](https://github.com/mountwebs/homepage) Repository for my personal website.
-* [**Blomstre**](https://github.com/mountwebs/blomstre-planttracker): Plant tracker prototype.
 * **PhysIO**: App to help physiotherapists and their clients (making and scheduling exercises etc.) Created with my mob at Salt at a 2-week sprint. 
   * [Backend](https://github.com/MaciejGL/final-project-backend) - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB  
   * [Frontend](https://github.com/MaciejGL/final-project-frontend) - React, Redux  
